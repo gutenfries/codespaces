@@ -1,0 +1,9 @@
+*
+**/*
+
+!.gitignore
+!.gitconfig
+!.devcontainer/
+!license
+!LICENSE
+!README.md
